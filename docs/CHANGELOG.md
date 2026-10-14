@@ -1,3 +1,3 @@
-v1.0.1
-- Updated the introduction and history documents to provide a comprehensive overview of the repository's background and core concepts.
-- Manually resolved a local merge conflict within the docs/collaboration.md file to ensure accurate guidelines for team contributions.
+V1.0.1
+   - This release updates the project documentation by thoroughly revising the introduction and history files to provide an accurate overview of the repository's core concepts.
+   - Manually resolved a local merge conflict within docs/collaboration.md to ensure our team contribution guidelines are properly aligned moving forward.
